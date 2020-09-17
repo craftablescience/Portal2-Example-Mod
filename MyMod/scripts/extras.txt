@@ -1,0 +1,10 @@
+"Extras"
+{
+	"chapter1"
+	{
+		"title"		"Chapter 1"
+		"subtitle"	"The Beginning"
+		"command"	"map sp_a1_00"
+		"pic"		"vgui/chapters/chapter1"
+	}
+}

@@ -1,0 +1,20 @@
+"GameInfo"
+{
+    game            "MyMod"
+    title           "MyMod"
+    gamelogo        1
+    icon            "resource/MyMod"
+    SupportsDX8     0
+    SupportsXbox360 1
+    FileSystem
+    {
+        SteamAppId  620 // Portal 2 has ID 620
+        ToolsAppId  211 // Hammer
+        SearchPaths
+        {
+            Game    |gameinfo_path|.
+            Game    portal2_dlc2
+            Game    portal2
+        }
+    }
+}
