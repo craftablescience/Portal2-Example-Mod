@@ -1,4 +1,4 @@
-# Portal2 Example Mod
+# Portal 2 Example Mod
  A sample mod for Portal 2, to quickly get started.
 
 ## Installation
